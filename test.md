@@ -9,3 +9,4 @@ checkpoint 8
 check
 chek
 checkpoint 9
+CHECKPOINT 10
